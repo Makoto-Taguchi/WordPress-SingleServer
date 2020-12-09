@@ -1,4 +1,4 @@
-ansible_become: yes
+# ansible_become: yes
 # MySQLのユーザーとパスワードを、変数に格納
 mysql_user_name: vagrant
 mysql_user_password: vagrant
